@@ -50,4 +50,4 @@ make check      # verbose output
 
 ## References
 
-Subject statement and all course material for `Operating Systems and Concurrent Programming`: https://systemes.gricad-pages.univ-grenoble-alpes.fr/sepc/ (in french)
+Subject statement and all course material for `Operating Systems and Concurrent Programming`: https://systemes.gricad-pages.univ-grenoble-alpes.fr/sepc/ (French)
